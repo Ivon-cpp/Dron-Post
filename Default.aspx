@@ -20,7 +20,7 @@
             <div class="col-md-4">
                 <div class="card">
                     <div class="card-top">
-                        <img src ="Images/logo-1.png" alt="..." />
+                        <img src ="Images/logo-1.jpg" alt="..." />
                     </div>
                     <div class ="card-body">
 

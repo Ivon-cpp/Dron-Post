@@ -7,31 +7,31 @@
 
             <div class="form-group">
                 <label for="login">Логин</label>
-                <input type="text" class="form-control" id="login" name="login" placeholder="type you login here">
+                <input type="text" class="form-control" id="login" name="login" placeholder="login...">
                 <div class="error" id="login-error"></div>
             </div>
 
             <div class="form-group">
                 <label for="pass1">Пароль</label>
-                <input type="password" class="form-control" id="pass1" name="pass1" placeholder="type you password here">
+                <input type="password" class="form-control" id="pass1" name="pass1" placeholder="password...">
                 <div class="error" id="pass1-error"></div>         
             </div>
 
             <div class="form-group">
                 <label for="pass2">Повтор</label>
-                <input type="password" class="form-control" id="pass2" name="pass2" placeholder="type you confirm here">
+                <input type="password" class="form-control" id="pass2" name="pass2" placeholder="password...">
                 <div class="error" id="pass2-error"></div>         
             </div>
 
             <div class="form-group">
                 <label for="email">Email</label>
-                <input type="email" class="form-control" id="email" name="email" placeholder="type you email here">
+                <input type="email" class="form-control" id="email" name="email" placeholder="example@mail.com">
                 <div class="error" id="email-error"></div>         
             </div>
 
             <div class="form-group">
                 <label for="phone">Номер</label>
-                <input type="number" class="form-control" id="phone" name="phone" placeholder="type you phone here">
+                <input type="number" class="form-control" id="phone" name="phone" placeholder="phone...">
                 <div class="error" id="phone-error"></div>         
             </div>
 
